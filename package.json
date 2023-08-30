@@ -1,0 +1,12 @@
+{
+  "name": "apis",
+  "version": "1.0.0",
+  "description": "Api Testings",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "ByteBuddies",
+  "license": "MIT"
+}
